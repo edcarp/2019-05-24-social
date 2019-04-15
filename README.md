@@ -6,9 +6,11 @@
 
 ## Content
 * [Purpose](#purpose)
+* [Schedule](#schedule)
+* [Registration](#registration)
+* [Mailing List](#mailing-list)
 * [Code of Conduct](#code-of-conduct)
 * [Outputs from group discussion activities](#outputs-from-group-discussion-activities)
-* [Schedule](#schedule)
 
 
 ## Purpose
