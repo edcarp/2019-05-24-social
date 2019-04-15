@@ -31,7 +31,7 @@ Slides and outcomes will be added to this page in due course.
 
 ## Registration
 
-Please register [here](https://www.eventbrite.co.uk/preview?eid=60308473267/)
+Please register [here](http://bit.ly/EdCarp-event)
 
 
 ## Mailing List 
