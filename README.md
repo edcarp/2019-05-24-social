@@ -1,5 +1,6 @@
 # Edinburgh Carpentries Networking meeting,  May 24th 2019, 4pm-7pm, Bayes Centre G.03 and Atrium
 
+
 ## Content
 * [Purpose](#purpose)
 * [Code of Conduct](#code-of-conduct)
@@ -17,10 +18,10 @@ The Edinburgh Carpentries (EdCarp), through teaching workshops, are providing ba
 
 ## Schedule
 
-* 16:00 - 16:10    Introduction (The Carpentries and SSI)
+* 16:00 - 16:10    Introduction ([The Carpentries](https://carpentries.org/) and [SSI](https://www.software.ac.uk/))
 * 16:10 - 16:45    Lightning talks
 * 16:45 - 17:15    Ice-breaking brainstorming session
-* 17:15 - 17:45    Report back (5 mins per group) and discussion 
+* 17:15 - 17:45    Report back and Discussion 
 * 17:45 - 18:00    Concluding Remarks
 * 18:00 - 19:00    Networking reception with pizza and drinks
 
@@ -33,7 +34,7 @@ Please register [here](https://www.eventbrite.co.uk/preview?eid=60308473267/)
 
 ## Mailing List 
 
-If you want to register to the EdCarp mailing list and/or you want to be involved as an helper or an instructor in a EdCarp Workshop fill this [form](http://eepurl.com/gl4MsX)
+If you want to register to the EdCarp mailing list and/or you want to be involved as an helper or an instructor in a EdCarp Workshops fill this [form](http://eepurl.com/gl4MsX)
 
 
 ## Code of Conduct
