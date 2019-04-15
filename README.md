@@ -27,7 +27,7 @@ Slides and outcomes will be added to this page in due course.
 
 ## Registration
 
-
+<a href="https://www.eventbrite.co.uk/preview?eid=60308473267"</a>
 
 ## Code of Conduct
 
