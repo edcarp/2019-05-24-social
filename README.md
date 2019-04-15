@@ -1,4 +1,7 @@
-# Edinburgh Carpentries Networking meeting,  May 24th 2019, 4pm-7pm, Bayes Centre G.03 and Atrium
+
+## Venue, Date and Time
+* **Where**: G.03 Bayes Centre 
+* **When**: 4-7pm, May 24th 2019
 
 
 ## Content
@@ -12,9 +15,6 @@
 
 The Edinburgh Carpentries (EdCarp), through teaching workshops, are providing basic computational and data analysis tools and techniques to staff and students based at universities in the Edinburgh area to improve their research techniques to make them more productive. This meeting will consist of people that have participated in, that would like to get involved in or that are curious about the EdCarp initiative, including past and potential attendees, instructors, and helpers. This effort aims to build a self-sustaining community in Edinburgh to scale up the provision of training to a much larger cohort of researchers in response to increasing demand. The event will consist of  a series of lighting talks(good practice of software using and software building after having attended EdCarp workshops) and an ice-breaking session about the moving forwards steps; followed by a catered networking reception.
 
-## Venue, Date and Time
-* **Where**: G.03 Bayes Centre 
-* **When**: 4-7pm, May 24th 2019
 
 ## Schedule
 
