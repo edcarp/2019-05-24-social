@@ -1,9 +1,9 @@
 These questions were posed to attendees as an ice-breaking session. Attendees were broken up into groups of 4-6 people and asked to try to answer a number of questions after introducing themselves to their fellow group members. The questions were:
 
-* [Question 1 - How should we better organise instructors and helpers?][#question-1---how-should-we-better-organise-instructors-and-helpers?]
+* [Question 1 - How should we better organise instructors and helpers?][#question-1---how-should-we-better-organise-instructors-and-helpers]
 * [Question 3 - How can we broaden the outreach of the initiative?](#question-3---how-can-we-broaden-the-outreach-of-the-intiative?]
-* [Questions 4 and 2 possible funding streams and sustainability for Edinburgh Carpentries](#questions-4-and-2-possible-funding-streams-and-sustainability-for-edinburgh-carpentries)
-* [Question 5: how to facilitate participation by formally recognise training?](#question-5:-how-to-facilitate-participation-by-formally-recognising-training?)
+* [Questions 4 and 2 possible funding streams and sustainability for Edinburgh Carpentries](#questionw-4-and-2-possible-funding-streams-and-sustainability-for-edinburgh-carpentries)
+* [Question 5: how to facilitate participation by formally recognise training?](#question-5-how-to-facilitate-participation-by-formally-recognising-training)
 * [Question 6: how to engage with decision makers? (Mario, Adam, Michael, Nathan)](#question-6:-how-to-engage-with-decision-makers?) 
 
 # Question 1 - How should we better organise instructors and helpers?
