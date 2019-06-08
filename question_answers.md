@@ -1,3 +1,5 @@
+# Questions and answers for breakout sessions
+
 These questions were posed to attendees as an ice-breaking session. Attendees were broken up into groups of 4-6 people and asked to try to answer a number of questions after introducing themselves to their fellow group members. The questions were:
 
 * [Question 1 - How should we better organise instructors and helpers?](#question-1---how-should-we-better-organise-instructors-and-helpers)
@@ -6,16 +8,16 @@ These questions were posed to attendees as an ice-breaking session. Attendees we
 * [Question 5: how to facilitate participation by formally recognise training?](#question-5-how-to-facilitate-participation-by-formally-recognising-training)
 * [Question 6: how to engage with decision makers?](#question-6-how-to-engage-with-decision-makers) 
 
-# Question 1 - How should we better organise instructors and helpers?
+## Question 1 - How should we better organise instructors and helpers?
 
-## Experience of previous events
+### Experience of previous events
 
 * Not all instructs had the done the training (in a particular event)
 * Software carpentry content is more generabl (and accessible?) to computer scientists while Data Carpentry has more specialised tools.
 * There's sometimes too many helpers.
 * Currently finding out who will facilitate an  event is like a black box. There's a slack channel.
 
-## Suggestions
+### Suggestions
 
 * Create a database of helpers (contact details, training, reliability)
 * Mailing list (for sending out out formal invittions for specific events)
@@ -26,7 +28,7 @@ These questions were posed to attendees as an ice-breaking session. Attendees we
 * Points of contacts in different schools that can help with recruitment/allocation.
 * Promote the opportunity to help in the Career Service (e.g. for students).
 
-# Question 3 - How can we broaden the outreach of the initiative?
+## Question 3 - How can we broaden the outreach of the initiative?
 
 * Advertising is not particularly problmatic. The problem is to keep people coming or people attending.
 * Catering is a good treat to attract people.
@@ -39,7 +41,7 @@ These questions were posed to attendees as an ice-breaking session. Attendees we
 * Target 1st year PhD students or MSc students or their supervisors. It could be better advertised from schools to their students or Sholarship ... to be mentioned in their introduction week.
 * Use a centralised webpage with upcoming events.
 
-# Questionw 4 and 2 possible funding streams and sustainability for Edinburgh Carpentries
+## Questionw 4 and 2 possible funding streams and sustainability for Edinburgh Carpentries
 
   *  Having carpentries be recognised as part of teaching load would be beneficial for
  	sustainability
@@ -53,7 +55,7 @@ These questions were posed to attendees as an ice-breaking session. Attendees we
   *  Whoever gets asked for funding, they're going to want to see evidence of the effectiveness of
  	carpentries, and the impact on their domain.
 
-# Question 5: how to facilitate participation by formally recognising training?
+## Question 5: how to facilitate participation by formally recognising training?
 
 * People would be encouraged to participate by certificate/award?
 * For instructors or students?
@@ -72,7 +74,8 @@ These questions were posed to attendees as an ice-breaking session. Attendees we
 
 * Is portfolio/list of skills more useful that formal recognised qualification
 
-# Question 6: how to engage with decision makers? 
+## Question 6: how to engage with decision makers? 
+
 Participants: Mario, Adam, Michael, Nathan.
 
 * Who decides funding?
